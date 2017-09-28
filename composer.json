@@ -1,0 +1,14 @@
+{
+    "name": "thelambofgoat/yandex-api-oauth",
+    "type": "library",
+    "require": {
+        "guzzle/guzzle": "^3.9"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pavel Smirnov",
+            "email": "smirnov@prcomm.ru"
+        }
+    ]
+}
