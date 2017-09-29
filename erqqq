@@ -1,0 +1,29 @@
+[33mcommit e98062d96653255ecc4c021836cde213d0142547[m
+Author: Pavel Smirnov <smirnov@prcomm.ru>
+Date:   Fri Sep 29 10:14:51 2017 +0300
+
+    Root interface renamed to YandexAPI to avoid problems with name collisions with Nixolutions package
+
+[33mcommit 45ca774b2beb226e3a265f01dddd69fbfd380ae2[m
+Author: Pavel Smirnov <smirnov@prcomm.ru>
+Date:   Thu Sep 28 12:41:37 2017 +0300
+
+    Now using guzzlehttp/guzzle instead of guzzle/guzzle
+
+[33mcommit 87b59d4e4ac564961cca6544b9a1040e5c599c6f[m
+Author: Pavel Smirnov <smirnov@prcomm.ru>
+Date:   Thu Sep 28 11:56:25 2017 +0300
+
+    .gitignore is now in accordance with gitignore.io
+
+[33mcommit 369cb2a8d1208177757d190364f100128ad3fec9[m
+Author: Pavel Smirnov <smirnov@prcomm.ru>
+Date:   Thu Sep 28 11:50:32 2017 +0300
+
+    New project created
+
+[33mcommit fbbe76ac08d28877d6f67f63b8598bc8467f9634[m
+Author: Paul Smalling <thelambofgoat@gmail.com>
+Date:   Thu Sep 28 11:11:03 2017 +0300
+
+    Initial commit
