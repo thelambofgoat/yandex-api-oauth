@@ -1,5 +1,5 @@
 <?php
-namespace Yandex\OAuth;
+namespace YandexAPI\OAuth;
 
 use Guzzle\Http;
 
@@ -14,5 +14,6 @@ class OAuthProvider
     public function __construct($clientId)
     {
         $client = new Client;
+
     }
 }
