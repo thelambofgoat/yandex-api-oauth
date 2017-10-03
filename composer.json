@@ -10,5 +10,10 @@
             "name": "Pavel Smirnov",
             "email": "smirnov@prcomm.ru"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "YandexAPI\\": "src/"
+        }
+    }
 }
